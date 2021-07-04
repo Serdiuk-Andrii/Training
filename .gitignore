@@ -46,6 +46,6 @@ $RECYCLE.BIN/
  .idea/**/shelf
 
  # IntelliJ
- out/
+ */out/
 
  */target/*
