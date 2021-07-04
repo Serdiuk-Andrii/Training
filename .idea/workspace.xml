@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef4bef9-4bc2-4de8-a572-d89512d27d38" name="Default Changelist" comment="Configure gitignore" />
-    <list id="1860f1d1-f767-461d-9eb0-2c5d779953bd" name="Configure gitignore" comment="" />
+    <list id="1860f1d1-f767-461d-9eb0-2c5d779953bd" name="Configure gitignore" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit example/JUnit example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit example/JUnit example.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +16,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1urX1NyGQfli6nxUHx9HsL82yLg" />
   <component name="ProjectViewState">
